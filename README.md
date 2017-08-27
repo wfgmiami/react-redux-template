@@ -11,3 +11,4 @@
 }
 
 # if deploying make sure to set environment variables
+# react-redux-template
